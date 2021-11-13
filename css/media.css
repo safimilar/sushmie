@@ -1,0 +1,894 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+header{
+	padding: 0;
+}
+.logo{
+	width: 22%;
+}
+.menu ul li{
+	text-align: right;
+}
+.menu ul li a{
+	margin: 3px 0;
+	padding: 5px 15px !important;
+	font-size: 16px;
+}
+.header_form{
+	margin-left: auto;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 110px 0 0 0;
+}
+.banner_text{
+	width: 100%;
+}
+.common_text h1{
+	font-size: 40px;
+}
+.common_text p{
+	margin: 20px 0;
+	font-size: 16px;
+}
+.common_text button{
+	padding: 5px 30px;
+	font-size: 16px;
+}
+/*banner end*/
+
+/*seller start*/
+.common_middle_text{
+	margin-top: 10px;
+	width: 100%;
+}
+.common_middle_text h1{
+	margin-bottom: 20px;
+	font-size: 35px;
+}
+.common_middle_text p{
+	font-size: 16px;
+}
+.item_img{
+	margin-top: 30px;
+}
+.item_text{
+	padding: 0;
+}
+.item_text h2{
+	margin-bottom: 18px;
+}
+
+/*side img start*/
+.common_position_img{
+	width: 65px;
+}
+.p_img_1{
+	top: 70%;
+}
+.p_img_2{
+	top: 15%;
+}
+/*side img end*/
+
+/*seller end*/
+
+/*testy start*/
+.testy_img{
+	margin: 0 auto;
+	width: 90%;
+}
+.t_text{
+	margin-top: 50px;
+}
+.t_text h1{
+	font-size: 35px;
+}
+.t_text p{
+	margin: 20px 0;
+	font-size: 16px;
+}
+.t_text button{
+	font-size: 16px;
+}
+/*testy end*/
+
+/*complete order start*/
+.complete_order{
+	padding: 45px 0;
+}
+.c_order_text{
+	margin-top: 0;
+}
+.cr_item{
+	margin-top: 50px;
+}
+
+/*side img start*/
+.p_img_3{
+	top: 45%;
+	width: 75px;
+}
+.p_img_4{
+	top: 16%;
+    width: 75px;
+}
+.p_img_5{
+	bottom: -2.5%;
+	width: 75px;
+}
+/*side img end*/
+/*complete order end*/
+
+/*delicious start*/
+.delicious{
+	padding: 60px 0;
+}
+
+/*side img start*/
+.p_img_6{
+	width: 80px;
+	top: 7%;
+	left: 5%;
+}
+.p_img_7{
+	width: 75px;
+	top: 45%;
+	right: 6%;
+}
+.p_img_8{
+	width: 55px;
+	left: 3%;
+	bottom: 8%;
+}
+/*side img end*/
+
+.d_full_text h1{
+	font-size: 35px;
+}
+.d_full_text p{
+	font-size: 16px;
+}
+.d_full_text button{
+	paddin: 7px 40px;
+	font-size: 16px;
+}
+.d_full_img{
+	width: 75%;
+    margin: 50px auto 0;
+}
+/*delicious end*/
+
+/*comment start*/
+.comment{
+	padding: 70px 0 100px;
+}
+.comment_text{
+	width: 100%;
+}
+.comment_text p{
+	margin-bottom: 20px;
+	font-size: 16px;
+}
+.comment_text h2{
+	font-size: 25px;
+}
+/*comment end*/
+
+/*subscribe start*/
+.subscribe{}
+/*subscribe side img*/
+.ss_img_1{
+	width: 120px;
+}
+.ss_img_2{
+	width: 120px;
+	z-index: -1;
+}
+.s_text{
+	width: 100%;
+}
+.s_text h1{
+	font-size: 35px;
+}
+.s_text p{
+	font-size: 16px;
+	margin: 25px 0 40px;
+}
+.s_form form{
+	width: 270px;
+}
+.s_form form input{
+	font-size: 16px;
+	width: 240px;
+}
+.s_form form button{
+	padding: 5px 20px;
+	font-size: 16px;
+}
+/*side img start*/
+.p_img_9{
+	width: 50px;
+	top: 3%;
+	left: 7%;
+}
+.p_img_10{
+	width: 50px;
+	top: 1%;
+	right: 11%;
+}
+.p_img_11{
+	width: 80px;
+	left: 33%;
+	bottom: 20%;
+}
+/*side img end*/
+/*subscribe end*/
+/*footer start*/
+footer{
+	padding: 150px 0 100px;
+}
+.f_item_1{
+	text-align: center;
+}
+.f_item_1 .c_f_h2{
+	margin-bottom: 25px;
+}
+.social_media ul{
+	margin-left: 16%;
+}
+.f_item_1 p{
+	font-size: 16px;
+}
+.social_media ul li a{
+	font-size: 16px;
+}
+.about_menu ul li a{
+	font-size: 16px;
+}
+.about{
+	margin-top: 100px;
+	text-align: center;
+}
+.service{
+	margin-top: 100px;
+	text-align: center;
+}
+.others{
+	margin-top: 100px;
+	text-align: center;
+}
+/*footer end*/
+
+
+
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+header{
+	padding: 0;
+}
+.logo{
+	width: 15%;
+}
+.menu ul li{
+	text-align: right;
+}
+.menu ul li a{
+	margin: 3px 0;
+	padding: 5px 15px !important;
+	font-size: 18px;
+}
+.header_form{
+	margin-left: auto;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 120px 0 50px;
+}
+.banner_text{
+	width: 80%;
+}
+.common_text h1{
+	font-size: 55px;
+}
+.common_text p{
+	margin: 30px 0;
+	font-size: 18px;
+}
+.common_text button{
+	padding: 7px 40px;
+	font-size: 18px;
+}
+/*banner end*/
+
+/*seller start*/
+.common_middle_text{
+	margin-top: -13%;
+	width: 95%;
+}
+.common_middle_text h1{
+	margin-bottom: 25px;
+	font-size: 45px;
+}
+.common_middle_text p{
+	font-size: 20px;
+}
+.item_img{
+	margin-top: 30px;
+}
+.item_text{
+	padding: 0 80px;
+}
+.item_text h2{
+	margin-bottom: 18px;
+}
+
+/*side img start*/
+.common_position_img{
+	width: 100px;
+}
+.p_img_1{
+	top: 83%;
+}
+.p_img_2{
+	top: 18%;
+}
+/*side img end*/
+
+/*seller end*/
+
+/*testy start*/
+.testy_img{
+	margin: 0 auto;
+	width: 90%;
+}
+.t_text{
+	margin-top: 50px;
+}
+.t_text h1{
+	font-size: 40px;
+}
+.t_text p{
+	margin: 20px 0;
+	font-size: 20px;
+}
+.t_text button{
+	font-size: 18px;
+}
+/*testy end*/
+
+/*complete order start*/
+.complete_order{
+	padding: 60px 0;
+}
+.c_order_text{
+	margin-top: 0;
+}
+.cr_item{
+	margin-top: 60px;
+}
+
+/*side img start*/
+.p_img_3{
+	top: 20%;
+	width: 100px;
+}
+.p_img_4{
+	top: 5%;
+    width: 85px;
+}
+.p_img_5{
+	bottom: -3%;
+	width: 85px;
+}
+/*side img end*/
+/*complete order end*/
+
+/*delicious start*/
+.delicious{
+	padding: 100px 0;
+}
+
+/*side img start*/
+.p_img_6{
+	width: 100px;
+	top: 7%;
+	left: 5%;
+}
+.p_img_7{
+	width: 80px;
+	top: 17%;
+	right: 4%;
+}
+.p_img_8{
+	width: 70px;
+	left: 5%;
+	bottom: 10%;
+}
+/*side img end*/
+
+.d_full_text h1{
+	font-size: 40px;
+}
+.d_full_text p{
+	font-size: 20px;
+}
+.d_full_text button{
+	paddin: 7px 40px;
+	font-size: 18px;
+}
+.d_full_img{
+	width: 75%;
+    margin: 70px auto 0;
+}
+/*delicious end*/
+
+/*comment start*/
+.comment{
+	padding-bottom: 130px;
+}
+.comment_text{
+	width: 100%;
+}
+.comment_text p{
+	font-size: 22px;
+}
+.comment_text h2{
+	font-size: 35px;
+}
+/*comment end*/
+
+/*subscribe start*/
+.subscribe{}
+/*subscribe side img*/
+.ss_img_1{
+	width: 200px;
+}
+.ss_img_2{
+	width: 200px;
+	z-index: -1;
+}
+.s_text{
+	width: 100%;
+}
+.s_text h1{
+	font-size: 35px;
+}
+.s_text p{
+	font-size: 20px;
+	margin: 35px 0 45px;
+}
+.s_form form{
+	width: 400px;
+}
+.s_form form input{
+	font-size: 18px;
+	width: 325px;
+}
+.s_form form button{
+	font-size: 18px;
+}
+/*side img start*/
+.p_img_9{
+	width: 75px;
+	top: 5%;
+	left: 5%;
+}
+.p_img_10{
+	width: 75px;
+	top: 1%;
+	right: 11%;
+}
+.p_img_11{
+	width: 80px;
+	left: 33%;
+	bottom: 20%;
+}
+/*side img end*/
+/*subscribe end*/
+/*footer start*/
+footer{
+	padding: 150px 0 100px;
+}
+.f_item_1{
+	text-align: center;
+}
+.social_media ul{
+	margin-left: 30%;
+}
+.f_item_1 p{
+	font-size: 16px;
+}
+.social_media ul li a{
+	font-size: 16px;
+}
+.about_menu ul li a{
+	font-size: 16px;
+}
+.about{
+	margin-top: 100px;
+	text-align: center;
+}
+.service{
+	margin-top: 100px;
+	text-align: center;
+}
+.others{
+	margin-top: 100px;
+	text-align: center;
+}
+/*footer end*/
+
+
+
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+header{
+	padding: 10px 0;
+}
+.menu ul li{
+	text-align: right;
+}
+.menu ul li a{
+	margin: 3px 0;
+	padding: 5px 15px !important;
+	font-size: 20px;
+}
+.header_form{
+	margin-left: auto;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 200px 0 210px;
+}
+.common_text h1{
+	font-size: 60px;
+}
+.common_text p{
+	font-size: 20px;
+}
+.common_text button{
+	padding: 8px 45px;
+	font-size: 20px;
+}
+/*banner end*/
+
+/*seller start*/
+.common_middle_text{
+	width: 95%;
+}
+.common_middle_text h1{
+	margin-bottom: 30px;
+	font-size: 55px;
+}
+.common_middle_text p{
+	font-size: 22px;
+}
+.item_text{
+	padding: 0;
+}
+.item_text h2{
+	margin-bottom: 18px;
+}
+
+/*side img start*/
+.common_position_img{
+	width: 67px;
+}
+.p_img_1{
+	top: 83%;
+}
+.p_img_2{
+	top: 18%;
+}
+/*side img end*/
+
+/*seller end*/
+
+/*testy start*/
+.testy_img{
+	width: 90%;
+}
+.t_text h1{
+	font-size: 50px;
+}
+.t_text p{
+	margin: 25px 0;
+	font-size: 25px;
+}
+.t_text button{
+	font-size: 22px;
+}
+/*testy end*/
+
+/*complete order start*/
+.complete_order{
+	padding: 60px 0;
+}
+.cr_item{
+	margin-top: 70px;
+}
+
+/*side img start*/
+.p_img_3{
+	top: 23%;
+	width: 100px;
+}
+.p_img_4{
+	top: 5%;
+    width: 100px;
+}
+.p_img_5{
+	bottom: -3%;
+	width: 100px;
+}
+/*side img end*/
+/*complete order end*/
+
+/*delicious start*/
+.delicious{
+	padding: 160px 0;
+}
+
+/*side img start*/
+.p_img_6{
+	width: 100px;
+	top: 7%;
+	left: 5%;
+}
+.p_img_7{
+	width: 90px;
+	top: 12%;
+	right: 3%;
+}
+.p_img_8{
+	width: 80px;
+	left: 42%;
+	bottom: 15%;
+}
+/*side img end*/
+
+.d_full_text h1{
+	font-size: 45px;
+}
+.d_full_text p{
+	font-size: 24px;
+}
+.d_full_text button{
+	paddin: 7px 40px;
+	font-size: 20px;
+}
+.d_full_img{
+	width: 95%;
+    margin-left: auto;
+}
+/*delicious end*/
+
+/*comment start*/
+.comment{
+	padding-bottom: 150px;
+}
+.comment_text{
+	width: 100%;
+}
+.comment_text p{
+	font-size: 27px;
+}
+.comment_text h2{
+	font-size: 40px;
+}
+/*comment end*/
+
+/*subscribe start*/
+.subscribe{}
+/*subscribe side img*/
+.ss_img_2{
+	z-index: -1;
+}
+.s_text{
+	width: 100%;
+}
+.s_text h1{}
+.s_text p{
+	font-size: 26px;
+	margin: 45px 0 60px;
+}
+.s_form form{
+	width: 550px;
+}
+.s_form form input{}
+.s_form form button{}
+/*side img start*/
+.p_img_9{
+	top: 10%;
+	left: 5%;
+}
+.p_img_10{
+	top: 4%;
+	right: 11%;
+}
+.p_img_11{
+	left: 33%;
+	bottom: 20%;
+}
+/*side img end*/
+/*subscribe end*/
+/*footer start*/
+footer{
+	padding: 150px 0 100px;
+}
+.f_item_1 p{
+	font-size: 18px;
+}
+.social_media ul li a{
+	font-size: 18px;
+}
+.about_menu ul li a{
+	font-size: 18px;
+}
+.about{
+	text-align: right;
+}
+.service{
+	margin-top: 100px;
+}
+.others{
+	margin-top: 100px;
+	text-align: right;
+}
+/*footer end*/
+
+
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+header{
+	padding-bottom: 40px;
+}
+.menu ul li{
+	text-align: right;
+}
+.menu ul li a{
+	margin: 3px 0;
+	padding: 5px 15px !important;
+}
+.header_form{
+	margin-left: auto;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 220px 0 120px;
+}
+/*banner end*/
+/*seller start*/
+.common_middle_text{
+	width: 80%;
+}
+/*side img start*/
+.common_position_img{
+	width: 100px;
+}
+.p_img_1{
+	top: 50%;
+}
+.p_img_2{
+	top: 15%;
+}
+/*side img end*/
+/*seller end*/
+
+/*testy start*/
+.testy_img{}
+.t_text p{
+	margin: 40px 0;
+	font-size: 28px;
+}
+.t_text button{}
+/*testy end*/
+
+/*complete order start*/
+.complete_order{
+	padding: 80px 0;
+}
+.cr_item{
+	margin-top: 70px;
+}
+
+/*side img start*/
+.p_img_3{
+	width: 100px;
+	top: 35%;
+}
+.p_img_4{
+	top: 15%;
+}
+.p_img_5{
+	bottom: -4.5%;
+}
+/*side img end*/
+/*complete order end*/
+
+/*delicious start*/
+.delicious{
+	padding: 170px 0;
+}
+
+/*side img start*/
+.p_img_6{
+	top: 7%;
+	left: 5%;
+}
+/*side img end*/
+
+.d_full_text p{
+	font-size: 26px;
+}
+.d_full_text button{
+	font-size: 23px;
+}
+.d_full_img{
+	width: 95%;
+    margin-left: auto;
+}
+/*delicious end*/
+
+/*comment start*/
+.comment_text{
+	width: 100%;
+}
+.comment_text p{
+	font-size: 30px;
+}
+.comment_text h2{
+	font-size: 42px;
+}
+/*comment end*/
+/*footer start*/
+footer{}
+.f_item_1 p{
+	font-size: 18px;
+}
+.social_media ul li a{
+	font-size: 18px;
+}
+.about_menu ul li a{
+	font-size: 18px;
+}
+/*footer end*/
+
+
+
+
+}
+
+/*Exra large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+
+
+
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+
+}
