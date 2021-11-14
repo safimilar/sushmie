@@ -352,6 +352,7 @@ header{
 	font-family: Montserrat-Bold;
 	font-size: 25px;
 	color: white;
+	text-transform: uppercase;
 	background: #ff7f7f;
 	border: 1px solid #ff7f7f;
 	border-radius: 40px;
