@@ -759,7 +759,7 @@ footer{
 @media (min-width: 992px) and (max-width: 1199.98px) {
 /*header start*/
 header{
-	padding-bottom: 40px;
+	padding-bottom: 0;
 }
 .menu ul li{
 	text-align: right;
